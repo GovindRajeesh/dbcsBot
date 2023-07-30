@@ -2,12 +2,12 @@
   {
     "identifier": ["hello", "hi", "hey"],
     "response": ["Greetings!", "Hello there!", "Hi!", "Hey, how can I assist you?"],
-    "strength": 1
+    "strength": 0.5
   },
   {
     "identifier": ["name"],
     "response": ["I am the Don Bosco Central School chatbot.", "You can call me the Don Bosco Bot."],
-    "strength": 1
+    "strength": 0.5
   },
   {
     "identifier": ["curriculum", "syllabus"],
@@ -41,7 +41,7 @@
       "Don Bosco Central School, Puthuppally, founded in 2005, is run by the Salesians of Don Bosco. It is a Christian minority school working in the Malankara Catholic Diocese of Thiruvalla.",
       "The aim of the school is to impart a sound education through wide training, which shall shape the character and develop the personality and draw out the best in every pupil. The Salesian Society, founded by Don Bosco, is a worldwide educational organization with more than 3500 Secondary Schools, Colleges, Agricultural and Technical Schools, and Youth Centres throughout the world."
     ],
-    "strength": 1
+    "strength": 0.5
   },
   {
     "identifier": ["mission", "vision"],

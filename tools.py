@@ -21,9 +21,9 @@ def botResponse(tokens):
             responses.append(
                 {
                     "identitfiers":[var["name"]],
-                    "response":var["value"],
+                    "response":[var["value"]],
                     "strength":1
                 }
             )
-
+    print(responses)
     return responses

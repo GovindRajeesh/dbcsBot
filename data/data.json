@@ -1,0 +1,64 @@
+[
+  {
+    "identifier": ["hello", "hi", "hey"],
+    "response": ["Greetings!", "Hello there!", "Hi!", "Hey, how can I assist you?"],
+    "strength": 1
+  },
+  {
+    "identifier": ["name"],
+    "response": ["I am the Don Bosco Central School chatbot.", "You can call me the Don Bosco Bot."],
+    "strength": 1
+  },
+  {
+    "identifier": ["curriculum", "syllabus"],
+    "response": ["The school follows the curriculum and syllabus of the Central Board of Secondary Education (CBSE), New Delhi. We prepare students for the AISSE (Class X) and the AISSCE (Class XII) Examination of the Board."],
+    "strength": 2
+  },
+  {
+    "identifier": ["subject", "course", "offer"],
+    "response": [
+      "We offer the following subjects at the Primary School Level (Class 1 & 2): English, Malayalam, Hindi, Mathematics, Environmental Science, Life Skills/Moral Science, Computer Science, General Knowledge.",
+      "At the Middle School Level (Class 3 to 7), we offer: English, Malayalam, Hindi, Mathematics, Science, Social Science, Life Skills/Moral Science, Computer Science, General Knowledge.",
+      "For the Secondary School Level (Class 8 to 10), we offer: English, Malayalam, Hindi, Mathematics, Science, Social Science, Life Skills/Moral Science, Computer Science.",
+      "At the Senior Secondary School Level (Class 11 & 12), we offer the following streams:",
+      "- Science Stream 1: Physics, Chemistry, Mathematics, Computer Science/Biology, English Core.",
+      "- Science Stream 2: Physics, Chemistry, Biology, English Core, Informatics Practices/Psychology.",
+      "- Commerce Stream: English, Accountancy, Business Studies, Economics, Mathematics/IP/Psychology.",
+      "- Humanities Stream: English, History, Political Science, Economics, IP/Psychology."
+    ],
+    "strength": 2
+  },
+  {
+    "identifier": ["activity", "co-scholastic", "co-curricular"],
+    "response": [
+      "In addition to academic subjects, we offer various co-scholastic activities, including Art Education, Work Education, Health and Physical Education, Music, and Dance."
+    ],
+    "strength": 2
+  },
+  {
+    "identifier": ["about", "about school","school","history","started"],
+    "response": [
+      "Don Bosco Central School, Puthuppally, founded in 2005, is run by the Salesians of Don Bosco. It is a Christian minority school working in the Malankara Catholic Diocese of Thiruvalla.",
+      "The aim of the school is to impart a sound education through wide training, which shall shape the character and develop the personality and draw out the best in every pupil. The Salesian Society, founded by Don Bosco, is a worldwide educational organization with more than 3500 Secondary Schools, Colleges, Agricultural and Technical Schools, and Youth Centres throughout the world."
+    ],
+    "strength": 1
+  },
+  {
+    "identifier": ["mission", "vision"],
+    "response": [
+      "Our Vision:",
+      "To mould young persons into intellectually Competent, Morally Upright, Socially Committed, and Spiritually Inspired Citizens at the Service of India and the World of Today and Tomorrow, by imparting Holistic and Personalized Education.",
+      "Our Mission:",
+      "To create a very friendly and safe school atmosphere for our students, so that they gain knowledge in a stress-free environment, to provide education that helps the child to realize his own potentials in the light of the Principles of St. John Bosco, education that treats and welcomes each and every child impartially lending an extra helping hand to the weaker sections, education that helps the Child develop Life Skills which would mould the child with Characteristics to be a good human being, to be independent, wise and a promise for the family and society."
+    ],
+    "strength": 2
+  },
+  {
+    "identifier": ["system", "education"],
+    "response": [
+      "The Salesian School, run by the Salesians of Don Bosco, is a Catholic Minority School especially for the poorer sections of society. We strive to achieve the total development of our youngsters and to make them persons of faith and honest citizens. We follow the Preventive System of St. John Bosco, which is based on reason, religion, and above all, loving kindness. It brings together educators and youngsters in a family experience of trust and dialogue.",
+      "Focusing on local needs and working together with our youngsters, we seek the collaboration of all (young people and adults, parents and educators, laity and religious) to respond to the youth situation in communion and sharing in the spirit and mission of Don Bosco. The Salesian School is an agent of justice and peace in society."
+    ],
+    "strength": 2
+  }
+]
